@@ -19,9 +19,6 @@ The project explores automated generation of **radiology reports** from **Spine 
 - [Results](#results)
 - [Next Steps](#next-steps)
 - [Tech Stack](#tech-stack)
-- [How to Run](#how-to-run)
-- [Project Structure](#project-structure)
-- [References](#references)
 
 ---
 
